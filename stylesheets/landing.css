@@ -14,7 +14,7 @@ HEADER
 ***********************************/
 
 .portrait{
-    max-width:auto;
+    max-width:400;
     max-height:250px;
 }
 
